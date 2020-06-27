@@ -3,10 +3,10 @@ import pygame
 import sys
 import math
 
-BLUE = (0,0,255)
-BLACK = (0,0,0)
-RED = (255,0,0)
-YELLOW = (255,255,0)
+BLUE = (77,184,255)
+BLACK = (102,153,153)
+RED = (255,153,204)
+YELLOW = (255,255,102)
 
 ROW_COUNT = 6
 COLUMN_COUNT = 7
